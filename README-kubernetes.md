@@ -1,5 +1,5 @@
 # Deploy to IBM Cloud Kubernetes Service
-
+# 1 of 2 changes in one commit
 Follow these instructions to deploy this application to a Kubernetes cluster and connect it with a Cloudant database.
 
 ## Download

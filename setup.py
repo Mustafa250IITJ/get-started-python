@@ -1,6 +1,7 @@
 """
 Hello World app for running Python apps on Bluemix
 """
+# 2 of 2 changes in one commit
 
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
